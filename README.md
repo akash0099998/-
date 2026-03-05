@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3500&pause=700&color=00FFD1&center=true&vCenter=true&width=780&lines=🤖+𝗚𝗼𝗮𝘁+𝗕𝗼𝘁+𝗩2;⚡+𝗡𝗲𝘅𝘁-𝗚𝗲𝗻+𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿+𝗕𝗼𝘁" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3500&pause=700&color=58A6FF&center=true&vCenter=true&width=780&lines=🤖+𝗚𝗼𝗮𝘁+𝗕𝗼𝘁+𝗩2;⚡+𝗡𝗲𝘅𝘁-𝗚𝗲𝗻+𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿+𝗕𝗼𝘁" alt="Typing SVG" />
   
   <p align="center">
     Custom Modified By <b>Mohammad Akash</b>
