@@ -1,55 +1,48 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&duration=3500&pause=700&color=00FFD1&center=true&vCenter=true&width=800&lines=🤖+Goat+Bot+V2;⚡+Next-Gen+Messenger+Automation;🛠+Custom+Modified+By+Mohammad+Akash" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=34&duration=3500&pause=700&color=00FFD1&center=true&vCenter=true&width=900&lines=🤖+Goat+Bot+V2;⚡+Next+Generation+Messenger+Automation;🛠+Custom+Fork+By+Mohammad+Akash" />
 </p>---
 
-<div align="center">🚀 Educational Custom Fork Project
+<p align="center">
+<img src="https://img.shields.io/badge/Version-v2.0-00FFD1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Active-00FF99?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/License-MIT-FF5555?style=for-the-badge"/>
+</p>---
 
-<img src="https://img.shields.io/badge/Version-v2.0-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/License-MIT-red?style=for-the-badge"/></div>---
+🌟 Project Overview
 
-🌟 About Project
+🤖 Facebook Messenger Automation Bot
+📦 Group Management System
+🎭 Auto Reply & Custom Commands
+🌍 Multi Language Support
 
-👉 Facebook Messenger Automation Bot
-👉 Group Management + Auto Reply System
-👉 Educational & Personal Use Only
-
-⚠️ This repository is a custom modified fork of Goat Bot V2.
-
----
-
-🛠 Features
-
-✅ Auto Reply System
-✅ Welcome & Leave Messages
-✅ Custom Commands
-✅ Multi Language Support
-✅ Admin Tools
+⚠️ Educational & Personal Use Only
 
 ---
 
-📹 Setup Tutorial
+🔥 Setup Tutorial
 
 <p align="center">
 <a href="https://youtu.be/gPf_BFhQz_w">
-<img src="https://img.youtube.com/vi/gPf_BFhQz_w/hqdefault.jpg" width="500"/>
+<img src="https://img.youtube.com/vi/gPf_BFhQz_w/hqdefault.jpg" width="520"/>
 </a>
 </p>---
 
-🌐 Connect With Developer
+🌐 Developer Connect
 
-<p align="center"><a href="https://facebook.com/arakashprofb">
+<p align="center">
+<a href="https://facebook.com/arakashprofb">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge"/>
 </a><a href="https://t.me/arakashiam">
 <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge"/>
 </a><a href="https://youtube.com/@akashbotdev">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge"/>
-</a></p>---
+</a>
+</p>---
 
 ⚠️ Disclaimer
 
-This project is for educational purposes only.
-I am not responsible for misuse or policy violations.
+This project is created for educational purposes only.
+I am not responsible for any misuse.
 
 ---
 
