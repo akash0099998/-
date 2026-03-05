@@ -1,46 +1,30 @@
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3500&pause=700&color=00FFD1&center=true&vCenter=true&width=780&lines=🤖+𝗚𝗼𝗮𝘁+𝗕𝗼𝘁+𝗩2;⚡+𝗡𝗲𝘅𝘁-𝗚𝗲𝗻+𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿+𝗕𝗼𝘁" /><p align="center">
-Custom Modified By <b>Mohammad Akash</b>
-</p><p align="center">
-🚀 Fast • 🤖 Smart • 🛡️ Reliable
-</p></div>---
-
-🔥 Official Support Group
-
 <p align="center">
-<a href="https://m.me/j/AbaLu1kVZB8R-vLR/">
-<img src="https://img.shields.io/badge/Join%20Messenger%20Support%20Group-0084FF?style=for-the-badge&logo=messenger&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&duration=3500&pause=700&color=00FFD1&center=true&vCenter=true&width=800&lines=🤖+Goat+Bot+V2;⚡+Next-Gen+Messenger+Automation;🛠+Custom+Modified+By+Mohammad+Akash" />
 </p>---
 
-📌 About Goat Bot V2
+<div align="center">🚀 Educational Custom Fork Project
 
-Goat Bot V2 is a Facebook Messenger automation bot designed for:
+<img src="https://img.shields.io/badge/Version-v2.0-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/License-MIT-red?style=for-the-badge"/></div>---
 
-- Group management
-- Auto reply system
-- Entertainment commands
-- Custom automation features
+🌟 About Project
 
-⚠️ This repository is a modified educational fork maintained by Mohammad Akash.
+👉 Facebook Messenger Automation Bot
+👉 Group Management + Auto Reply System
+👉 Educational & Personal Use Only
 
----
-
-⚙️ Framework Details
-
-- Based on: Goat Bot V2
-- Platform: Facebook Messenger
-- Language: Node.js
-- Edition: Custom Modified
+⚠️ This repository is a custom modified fork of Goat Bot V2.
 
 ---
 
 🛠 Features
 
-- 🤖 Auto Reply System
-- 🎭 Welcome & Leave System
-- 📦 Custom Commands
-- 🛡️ Admin Tools
-- 🌍 Multi-language Support
+✅ Auto Reply System
+✅ Welcome & Leave Messages
+✅ Custom Commands
+✅ Multi Language Support
+✅ Admin Tools
 
 ---
 
@@ -48,35 +32,25 @@ Goat Bot V2 is a Facebook Messenger automation bot designed for:
 
 <p align="center">
 <a href="https://youtu.be/gPf_BFhQz_w">
-<img src="https://img.youtube.com/vi/gPf_BFhQz_w/hqdefault.jpg"/>
+<img src="https://img.youtube.com/vi/gPf_BFhQz_w/hqdefault.jpg" width="500"/>
 </a>
 </p>---
 
 🌐 Connect With Developer
 
 <p align="center"><a href="https://facebook.com/arakashprofb">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge"/>
 </a><a href="https://t.me/arakashiam">
-<img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge"/>
 </a><a href="https://youtube.com/@akashbotdev">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge"/>
 </a></p>---
 
-⚠️ Credits
-
-Original Project: Goat Bot V2 by ntkhang03
-
-All core credits belong to the original developer.
-
-This repository contains educational custom modifications only.
-
----
-
-🔒 Disclaimer
+⚠️ Disclaimer
 
 This project is for educational purposes only.
-The developer is not responsible for any misuse.
+I am not responsible for misuse or policy violations.
 
 ---
 
-❤️ Respect Open Source Developers.
+❤️ Respect Open Source Developers
